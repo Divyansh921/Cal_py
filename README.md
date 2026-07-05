@@ -1,8 +1,8 @@
-#Python Calculator
+##Python Calculator
 
 Cal_py is a basic calculator 
 
-#Features
+##Features
 1.Multiply
 2.Division
 3.Additon
@@ -10,12 +10,12 @@ Cal_py is a basic calculator
 5.Exponential operator
 6.Floor division
 
-#Technology
+##Technology
 Python
 match-case
 while loop (for making it run till user quits)
 
-How to run: 
+##How to run: 
 python main.py
 
 ## Example
