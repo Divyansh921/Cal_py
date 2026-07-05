@@ -1,6 +1,6 @@
 #A calculator for basic calculation
-a = int(input("Enter first digit"))
-b = int(input("enter second digit"))
+a = float(input("Enter first digit"))
+b = float(input("enter second digit"))
 operation = str(input("enter the operation +,-,*,/"))
 
 def calculator(a,b,operation):
